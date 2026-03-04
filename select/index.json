@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だんだん犬になる - mass",
+  "base_artist": "mass",
+  "createdAt": "2026-03-04T08:01:08.712295Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だんだん犬になる",
+      "artist": "mass",
+      "has_synced": false,
+      "path": "select/pl_01_だんだん犬になる_mass.txt"
+    }
+  ]
+}
